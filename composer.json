@@ -1,5 +1,5 @@
 {
-    "name": "vienthuong/kiot-viet-client",
+    "name": "dearjose/kiotviet",
     "type": "library",
     "description": "A Small PHP Client package for working with KiotViet API",
     "keywords": [
